@@ -439,6 +439,32 @@
 > `传真号码` `^(([0\+]\d{2,3}-)?(0\d{2,3})-)(\d{7,8})(-(\d{3,}))?$`
 >
 > `护照` `^([a-zA-z]|[0-9]){5,17}$`
+> 
+
+
+## 写在最后
+
+**正所谓** `站在巨人的肩膀上才能看的更远` 🥳
+
+`在学习正则表达式的过程也大量查询了资料，并且也发现了很多很优秀的内容，它们都已经做好了极其`**优秀**`的整理,所以这里我也将一些优秀的内容列出来供大家学习`
+
+👊👊👊 `万丈高楼平地起，我们要学习，要思考` ✋✋✋
+
+> https://github.com/rd2coding/Road2Coding
+>
+> https://github.com/cdoco/common-regex
+>
+> https://github.com/cdoco/learn-regex-zh
+>
+> https://github.com/jaywcjlove/regexp-example
+>
+> https://github.com/limingziqiang/functions
+>
+> https://github.com/dunizb/JS-Regular-expression-awesome
+>
+> https://github.com/haizlin/h-regular
+
+
 
 
 
